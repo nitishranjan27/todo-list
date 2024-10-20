@@ -29,7 +29,7 @@ To run the application locally, follow these steps:
 
 2. Navigate to the project directory:
 
-    cd my-todo-list
+    cd ToDoApp
 
 3. Install the dependencies:
 
